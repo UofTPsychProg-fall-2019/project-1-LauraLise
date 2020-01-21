@@ -26,4 +26,6 @@
     # I have created several CSV files with the letter sequence participants will be shown for each block 
  
 
-#NOTE: When running this experiment you will need to press 1 to advance from the practice to the test
+
+
+# To run this experiment, you need to create two folders called, "PRACTICE_data" and "TASK_data" in the same directory as the psychopy experiment file (the data from the practice and task will save in these folders). Also, when running this experiment, you will need to press 1 to advance from the practice to the test.
