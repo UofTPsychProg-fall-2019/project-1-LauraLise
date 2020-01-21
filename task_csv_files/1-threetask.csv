@@ -1,0 +1,13 @@
+letter,corr_resp,trial_type,lure_type,n_type,block,trial
+N,,nontarget,na,1,1,1
+N,,target,na,1,1,2
+R,,nontarget,na,1,1,3
+R,,target,na,1,1,4
+F,,nontarget,na,1,1,5
+Y,,nontarget,na,1,1,6
+S,,nontarget,na,1,1,7
+K,,nontarget,na,1,1,8
+T,,nontarget,na,1,1,9
+W,,nontarget,na,1,1,10
+C,,nontarget,na,1,1,11
+C,,target,na,1,1,12
